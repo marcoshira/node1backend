@@ -40,7 +40,7 @@ const fileFilter = (req, file, cb) => {
 };
 
 app.use(helmet());
-// app.use(compression());
+app.use(compression());
 
 app.use(bodyParser.json());
 app.use(
