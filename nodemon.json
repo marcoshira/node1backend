@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "marcoshira",
+        "MONGO_PASSWORD": "Tico011099",
+        "MONGO_DEFAULT_DATABASE": "messages",
+        "JWT_SECRET": "segredosecretonaocontapraninguemshiiiiiu"
+    }
+}
